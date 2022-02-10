@@ -1,14 +1,13 @@
 # Progress Belajar
-Repository ini berisikan tentang progress belajar pribadi saya di Dicoding
+**Repository ini berisikan tentang progress belajar pribadi saya di Dicoding**
 
-14 Februari 2022
+**14 Februari 2022** <br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
 * Belajar tentang apa itu Java dan alasan menggunakannya.
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-
-15 Februari 2022
+**15 Februari 2022** <br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
