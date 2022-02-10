@@ -1,5 +1,8 @@
 # Progress Belajar
-**Repository ini berisikan tentang progress belajar pribadi saya di Dicoding**
+**Repository ini berisikan tentang progress belajar pribadi saya di Dicoding** <br>
+
+**Nama : Muhammad Syaiful Rahman** <br>
+**"_The Mind is Everything_"** <br>
 
 **14 Februari 2022** <br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
