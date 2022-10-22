@@ -1,3 +1,5 @@
+![photo-1542831371-29b0f74f9713](https://user-images.githubusercontent.com/99336708/197318928-af815888-29bd-45aa-8119-7a74a7b81444.jpg)
+
 # Progress Belajar
 **Repository ini berisikan tentang progress belajar pribadi saya di Dicoding** <br>
 
